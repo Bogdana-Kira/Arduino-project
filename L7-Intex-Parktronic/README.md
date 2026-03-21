@@ -21,7 +21,7 @@ The system categorizes distance into five safety zones:
 - **Others:** Potentiometer, resistors, and breadboard.
 
 ## 📐 Circuit Diagram
-![Parking Sensor Schematic](Parking-Senso.png)
+![Parking Sensor Schematic](Parking-Sensor.png)
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
