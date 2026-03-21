@@ -24,7 +24,7 @@ Check out my latest work on an ultrasonic parking assistant. It features real-ti
 ---
 
 ## 📬 Contact Me
-*   **YouTube:** [My Engineering Channel](https://www.youtube.com/@ТвійКанал)
+*   **YouTube:** [My Engineering Channel]([https://www.youtube.com/@ТвійКанал](https://www.youtube.com/@kira_b-j2v))
 *   **Location:** Currently based in Ukraine 🇺🇦 
 ---
 
