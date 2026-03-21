@@ -29,3 +29,8 @@ The system categorizes distance into five safety zones:
 2. Copy the source code to your Arduino IDE or Tinkercad.
 3. Ensure you have the `LiquidCrystal` library installed.
 4. Run the simulation or upload to your hardware.
+
+## 📺 Video Demonstration
+Watch the system in action (click the image below):
+
+[![Watch the video](https://img.youtube.com/vi/hYuQe4qngJM/0.jpg)](https://youtu.be/hYuQe4qngJM)
