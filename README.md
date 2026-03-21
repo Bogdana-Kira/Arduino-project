@@ -1,6 +1,6 @@
 # Arduino-project
 
-# Hi there, I'm Bohdana! 👋
+# Hi there, I'm Bohdana Kira! 👋
 
 ### 👩‍💻 Future Embedded Systems Engineer & Tech Enthusiast
 Welcome to my GitHub! I am passionate about electronics, Arduino programming, and building smart systems that solve real-world problems.
