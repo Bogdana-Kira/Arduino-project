@@ -1,4 +1,4 @@
-# 🪴 Smart Plant Monitoring System (L8-Moisture)
+# 🪴 Smart Plant Monitoring System (Soil Moisture Sensor)
 
 An intelligent hardware-software solution for real-time soil moisture tracking and automated plant care alerts.
 
