@@ -29,7 +29,7 @@ The system operates based on two main inputs:
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-1. Copy the code from [View main.ino](./main.ino) to your IDE.
+1. Copy the code from [main.ino](./main.ino) to your IDE.
 2. Ensure sensors are connected to the correct pins (PIR to Digital, LDR to Analog).
 3. Adjust the potentiometer to calibrate LCD contrast.
 
