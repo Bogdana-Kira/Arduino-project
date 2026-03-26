@@ -29,7 +29,7 @@ The system reads analog data from the sensor and categorizes the hydration level
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-1. Open the `smart_plant_monitor.ino` file in this folder.
+1. Open the [smart_plant_monitor.ino](./smart_plant_monitor.ino) file in this folder.
 2. Copy the code to your Arduino IDE or Tinkercad environment.
 3. Connect the sensor's VCC to pin **A0** (for power management).
 4. Monitor real-time values through the **Serial Monitor** at 9600 baud.
