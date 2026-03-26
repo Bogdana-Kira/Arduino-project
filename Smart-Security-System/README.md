@@ -28,10 +28,11 @@ The system operates based on two main inputs:
 ![Security System Schematic](Arduino-home-security-with-PIR-Sensor-and-LCD-display.png)
 *Designed and simulated in Tinkercad.*
 
-## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/ID_ТВОГО_ВІДЕО/0.jpg)](https://youtu.be/ID_ТВОГО_ВІДЕО)
-
 ## 🚀 Installation & Use
 1. Copy the code from [View main.ino](./main.ino) to your IDE.
 2. Ensure sensors are connected to the correct pins (PIR to Digital, LDR to Analog).
 3. Adjust the potentiometer to calibrate LCD contrast.
+
+## 📺 Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/8nWFuVx3Re0/0.jpg)](https://youtu.be/8nWFuVx3Re0)
+
