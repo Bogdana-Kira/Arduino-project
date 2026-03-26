@@ -25,7 +25,7 @@ The system categorizes distance into five safety zones:
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-1. Open the `main.ino` file located in this folder.
+1. Open the [main.ino](./main.ino) file located in this folder.
 2. Copy the source code to your Arduino IDE or Tinkercad.
 3. Ensure you have the `LiquidCrystal` library installed.
 4. Run the simulation or upload to your hardware.
