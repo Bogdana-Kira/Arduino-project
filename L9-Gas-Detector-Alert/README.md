@@ -35,7 +35,7 @@ The system continuously monitors the sensor values and switches between two stat
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-1. Open the `gas_detector.ino` file in this folder.
+1. Open the [gas_detector.ino](./gas_detector.ino) file in this folder.
 2. Copy the code to your Arduino IDE or Tinkercad environment.
 3. Ensure the `LiquidCrystal` library is included in your project.
 4. In simulation, move the "gas cloud" towards the sensor to trigger the alarm.
