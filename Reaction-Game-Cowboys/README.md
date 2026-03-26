@@ -29,13 +29,11 @@ The "Cowboy Duel" is a speed-reaction trainer. The system waits for a random int
 ![Reaction Game Schematic](Button-Сowboys.png)
 *Designed and simulated in Tinkercad.*
 
-## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/IsK_uFLQDok/0.jpg)](https://youtu.be/IsK_uFLQDok)
-
----
-
 ## 🚀 Installation & Use
 1. **Get the Code:** Open the [main.ino](./main.ino) file and copy the source code.
 2. **Setup:** Paste the code into your Arduino IDE or a new Tinkercad "Code" block.
 3. **Hardware:** Connect two players to the designated pins (Player 1: Pin 2/3, Player 2: Pin 13/12).
 4. **Play:** Start the simulation, wait for the buzzer signal, and be the fastest to press your button!
+
+## 📺 Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/IsK_uFLQDok/0.jpg)](https://youtu.be/IsK_uFLQDok)
