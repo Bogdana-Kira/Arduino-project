@@ -27,6 +27,3 @@ Check out my latest work on an ultrasonic parking assistant. It features real-ti
 *   **YouTube:** [My Engineering Channel](https://www.youtube.com/@kira_b-j2v)
 *   **Location:** Currently based in Ukraine 🇺🇦 
 ---
-
-### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogdana-Kira&show_icons=true&theme=tokyonight)
