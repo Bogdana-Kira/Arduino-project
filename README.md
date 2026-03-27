@@ -7,7 +7,7 @@ I design and build smart hardware solutions, focusing on sensor logic, automated
 
 ## 🛠 Tech Stack & Tools
 - **Programming:** C++, Arduino Language
-- **Hardware Simulation:** Tinkercad, Wokwi
+- **Hardware Simulation:** Tinkercad, Wokwi, Circuit
 - **Version Control:** GitHub
 - **Engineering Focus:** Embedded Systems, IoT, Sensor Fusion, Analog/Digital Data Processing
 
@@ -37,8 +37,3 @@ I document my builds and simulations on my YouTube channel:
 - **GitHub:** Browse my repositories for full source code 📂
 - **Location:** Ukraine 🇺🇦
 - **Focus:** Expanding knowledge in Microcontrollers and Circuit Design.
-
----
-
-### 📈 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bogdana-Kira&show_icons=true&theme=radical)
