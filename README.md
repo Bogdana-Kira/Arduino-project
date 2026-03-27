@@ -28,10 +28,8 @@ A collection of my technical works, organized by complexity and functionality.
 ---
 
 ## 📺 Video Demonstrations
-I document my builds and simulations on my YouTube channel. Click the image below to watch the channel trailer:
-
-[![Watch my channel](https://img.youtube.com/vi/hYuQe4qngJM/0.jpg)](https://www.youtube.com/@kira_b-j2v)
-*🎥 **[Visit My Engineering Channel](https://www.youtube.com/@kira_b-j2v)** to see all 6 projects in action!*
+I document my builds and simulations on my YouTube channel:
+🎥 **[My Engineering Channel](https://www.youtube.com/@kira_b-j2v)**
 
 ---
 
