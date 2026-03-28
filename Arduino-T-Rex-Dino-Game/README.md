@@ -36,4 +36,4 @@ A professional recreation of the iconic Google Chrome offline dinosaur game, bui
 4. **Play:** Start the simulation, wait for the buzzer signal, and jump to survive!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/ID_ВІДЕО/0.jpg)](https://youtu.be/ID_ВІДЕО)
+[![Watch the video](https://img.youtube.com/vi/cevQtG8iMh4/0.jpg)](https://youtu.be/cevQtG8iMh4)
