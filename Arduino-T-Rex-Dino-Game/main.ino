@@ -1,9 +1,8 @@
-
 #include <LiquidCrystal.h>
 
 // --- Game Constants ---
-#define START_SPEED 150    
-#define MAX_SPEED 40       
+#define START_SPEED 150    // Initial delay (higher = slower)
+#define MAX_SPEED 40       // Minimum delay (lower = faster)
 #define JUMP_LENGTH 3      
 #define LEFT_LIMIT 1       
 #define RIGHT_LIMIT 2      
@@ -15,7 +14,7 @@
 #define SPEAKER 6
 #define RESET_PIN 7
 
-// Musical frequencies
+// Musical frequencies for the background theme
 const float melody[] = {
   293.66, 246.94, 293.66, 196.0, 293.66, 246.94, 293.66, 196.0, 329.63, 261.63
 };
@@ -36,12 +35,12 @@ void setup() {
   lcd.setCursor(1, 1);
   lcd.print("Press to Start");
   
-  // Чекаємо, поки користувач натисне кнопку, щоб почати
+  // Wait for the user to press the button to begin
   while(digitalRead(BUTTON_JUMP) == LOW) {
     delay(10); 
   }
   
-  tone(SPEAKER, 600, 100); // Звуковий сигнал старту
+  tone(SPEAKER, 600, 100); // Start sound signal
   lcd.clear();
   updateScore(0);
 }
@@ -55,16 +54,18 @@ void loop() {
   static unsigned int score = 0;
   static int currentDelay = START_SPEED;
 
-  // Плавне прискорення
+  // Smooth game acceleration
   if (loopCount % 50 == 0 && currentDelay > MAX_SPEED) {
     currentDelay -= 2;
   }
 
+  // Play background melody and check for jump input
   if(!isJumping) {
     tone(SPEAKER, melody[(loopCount/4) % 10]);
     isJumping = digitalRead(BUTTON_JUMP);
   }
 
+  // Handle Jump Physics
   if(isJumping && jumpStep <= JUMP_LENGTH) {
     playerPos = AIR;
     jumpStep++;
@@ -75,14 +76,18 @@ void loop() {
   }
 
   drawPlayer(0, playerPos);
+  
+  // Manage obstacles
   targetPos1 = moveObstacle1(playerPos);
   targetPos2 = moveObstacle2(playerPos);
 
+  // Collision Detection Logic
   if(playerPos == GROUND && ((targetPos1 <= RIGHT_LIMIT && targetPos1 >= LEFT_LIMIT) || 
      (targetPos2 <= RIGHT_LIMIT && targetPos2 >= LEFT_LIMIT))) {
     triggerGameOver();
   }
 
+  // Scoring Logic
   if(isJumping && ((targetPos1 <= (LEFT_LIMIT + 1) && targetPos1 >= LEFT_LIMIT) || 
      (targetPos2 < (LEFT_LIMIT + 1) && targetPos2 >= LEFT_LIMIT))) {
     score++;
