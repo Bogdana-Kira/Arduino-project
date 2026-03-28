@@ -36,4 +36,4 @@ The "Smart Calculator" transforms an Arduino into a handheld computing device. I
 4. **Play:** Start the simulation, enter your numbers, choose an operation, and get your result!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/ВСТАВ_ID_ВІДЕО/0.jpg)](https://youtu.be/ВСТАВ_ID_ВІДЕО)
+[![Watch the video](https://img.youtube.com/vi/gacR2xG3-MQ/0.jpg)](https://youtu.be/gacR2xG3-MQ)
