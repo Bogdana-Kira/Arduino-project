@@ -35,4 +35,4 @@ The "Arduino Digital Piano" is an 8-note synthesizer that allows users to play a
 4. **Play:** Start the simulation or power up your Arduino, and start composing your own melodies!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/IcQjLxOMggQ/0.jpg)](https://youtu.be/IcQjLxOMggQ)
