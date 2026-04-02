@@ -29,7 +29,7 @@ The "Arduino Digital Piano" is an 8-note synthesizer that allows users to play a
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-1. **Get the Code:** Open your main `.ino` file and copy the source code.
+1. **Get the Code:** Open the [main.ino](./main.ino) file and copy the source code.
 2. **Setup:** Paste the code into your Arduino IDE or the "Code" block in Tinkercad.
 3. **Hardware:** Connect the buttons to pins 6-13 and the LEDs to the designated output pins according to the schematic.
 4. **Play:** Start the simulation or power up your Arduino, and start composing your own melodies!
