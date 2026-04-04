@@ -43,5 +43,7 @@ The system continuously monitors the sensor values and switches between two stat
 
 ## 📺 Video Demonstration
 Watch the system in action (click the image below):
-
 [![Watch the video](https://img.youtube.com/vi/PjKU_IZFcoA/0.jpg)](https://youtu.be/PjKU_IZFcoA)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/3QA4X5nJ1zX-gas-sensor)
