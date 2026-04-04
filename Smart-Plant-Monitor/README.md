@@ -38,3 +38,6 @@ The system reads analog data from the sensor and categorizes the hydration level
 Watch the system in action (click the image below):
 
 [![Watch the video](https://img.youtube.com/vi/d_9u4wi0Lak/0.jpg)](https://youtu.be/d_9u4wi0Lak)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/dzJ1bN1JFBN-humidity-sensor-critical-level)
