@@ -37,3 +37,6 @@ The "Smart Calculator" transforms an Arduino into a handheld computing device. I
 
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/gacR2xG3-MQ/0.jpg)](https://youtu.be/gacR2xG3-MQ)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/e0G5UpfcMuV-arduino-car-simulator?sharecode=5HYWMwC4e5kTNmw4sCjFQxQzJ2q2hCxoZ28con0RnKw)
