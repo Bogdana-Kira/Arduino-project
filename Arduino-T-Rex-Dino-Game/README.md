@@ -37,3 +37,6 @@ A professional recreation of the iconic Google Chrome offline dinosaur game, bui
 
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/cevQtG8iMh4/0.jpg)](https://youtu.be/cevQtG8iMh4)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/5TVcuT4aSQC-game-t-rex-)
