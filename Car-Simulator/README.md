@@ -37,3 +37,6 @@ This project focuses on robotics and embedded logic. The car uses an ultrasonic 
 
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/lUNK6sRbKaU/0.jpg)](https://youtu.be/lUNK6sRbKaU)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/e0G5UpfcMuV-arduino-car-simulator?sharecode=5HYWMwC4e5kTNmw4sCjFQxQzJ2q2hCxoZ28con0RnKw)
