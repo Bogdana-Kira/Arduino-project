@@ -34,3 +34,6 @@ The cube operates on a coordinate system (X, Y, Z):
 
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/kyTAM8Ku1C0/0.jpg)](https://youtu.be/kyTAM8Ku1C0)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/jwp1VWnS1dT-4x4x4-led-cube)
