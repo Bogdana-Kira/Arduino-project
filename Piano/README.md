@@ -36,3 +36,6 @@ The "Arduino Digital Piano" is an 8-note synthesizer that allows users to play a
 
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/IcQjLxOMggQ/0.jpg)](https://youtu.be/IcQjLxOMggQ)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/4GSJn3q9yWX-piano)
