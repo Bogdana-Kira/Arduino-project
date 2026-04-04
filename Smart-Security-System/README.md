@@ -36,3 +36,5 @@ The system operates based on two main inputs:
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/8nWFuVx3Re0/0.jpg)](https://youtu.be/8nWFuVx3Re0)
 
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2y7GLggyEKM-arduino-home-security-with-pir-sensor-and-lcd-display)
