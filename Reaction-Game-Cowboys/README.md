@@ -37,3 +37,6 @@ The "Cowboy Duel" is a speed-reaction trainer. The system waits for a random int
 
 ## 📺 Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/IsK_uFLQDok/0.jpg)](https://youtu.be/IsK_uFLQDok)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/fKMZ1Ur3qJ2-button-cowboys)
