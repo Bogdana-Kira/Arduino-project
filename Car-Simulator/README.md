@@ -36,4 +36,4 @@ This project focuses on robotics and embedded logic. The car uses an ultrasonic 
 4. **Test:** Run the simulation and move the obstacle in front of the sensor to see the car react!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/lUNK6sRbKaU/0.jpg)](https://youtu.be/lUNK6sRbKaU)
