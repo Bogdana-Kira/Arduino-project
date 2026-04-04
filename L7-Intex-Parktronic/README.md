@@ -34,3 +34,6 @@ The system categorizes distance into five safety zones:
 Watch the system in action (click the image below):
 
 [![Watch the video](https://img.youtube.com/vi/hYuQe4qngJM/0.jpg)](https://youtu.be/hYuQe4qngJM)
+
+## 🔗 Interactive Simulation
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/3xPPp47aVd9-copy-of-l7-intex-parktronic)
