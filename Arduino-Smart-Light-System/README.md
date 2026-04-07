@@ -35,7 +35,7 @@ This project simulates a smart home lighting controller. It detects the brightne
 4. **Testing:** Simulate changing light conditions to see the LED and LCD respond automatically.
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/pYPe7i0znh8/0.jpg)](https://youtu.be/pYPe7i0znh8)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/lp4HFf6LK0Z-smart-light-system)
