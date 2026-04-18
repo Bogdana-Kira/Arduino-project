@@ -34,7 +34,7 @@ The "RGB Mood Lamp" uses four RGB LEDs to light up a space with various colors. 
 3. **Upload:** Flash the code to your Arduino and watch the colors change!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/8qbtLIOJrGU/0.jpg)](https://youtu.be/8qbtLIOJrGU)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/0QfmP98RdaV-rgb-led-random)
