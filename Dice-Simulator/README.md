@@ -35,7 +35,7 @@ The "Cube Simulator with Button" is a digital version of a classic game dice. In
 4. **Play:** Press the button and see what number you get!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/M1e346CqFt0/0.jpg)](https://youtu.be/M1e346CqFt0)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/fEApSv7v4Xo-cube-simulator-with-button)
