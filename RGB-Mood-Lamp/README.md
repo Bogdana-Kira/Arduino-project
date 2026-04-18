@@ -37,4 +37,4 @@ The "RGB Mood Lamp" uses four RGB LEDs to light up a space with various colors. 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
 ## 🔗 Interactive Simulation
-[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/YOUR_TINKERCAD_LINK)
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/0QfmP98RdaV-rgb-led-random)
