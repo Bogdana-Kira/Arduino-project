@@ -1,6 +1,6 @@
-# 🎲 Cube Simulator with Button
+# 🎲 Arduino Dice Simulator
 
-An interactive electronics project that simulates a physical dice roll using LEDs and a pushbutton.
+An interactive Arduino-based project that simulates a physical dice roll. By pressing a button, the system generates a random number from 1 to 6 and displays it through a specific LED configuration.
 
 ## 📌 Project Overview
 The "Cube Simulator with Button" is a digital version of a classic game dice. Instead of throwing a cube, you press a button, and the Arduino generates a random number from 1 to 6, displaying it through a specific pattern of LEDs. This project demonstrates how to handle user input and implement randomization logic in C++.
