@@ -24,7 +24,7 @@ A collection of my technical works, organized by complexity and functionality.
 
 | Project Name | Folder | Key Features |
 | :--- | :--- | :--- |
-| **📡 IR Smart Garland** | [`IR-Smart-Garland`](./IR Smart Garland) | Infrared Control, 8-LED Sequence, Wireless Logic |
+| **📡 IR Smart Garland** | [`IR-Smart-Garland`](./IR-Smart-Garland) | Infrared Control, 8-LED Sequence, Wireless Logic |
 | **🎲 Dice Simulator** | [`Dice-Simulator`](./Dice-Simulator) | Randomization Logic, Pushbutton Input, LED Mapping |
 | **🌙 Smart Light System** | [`Arduino-Smart-Light-System`](./Arduino-Smart-Light-System) | LDR Sensor, LCD Monitoring, Auto Night-Mode |
 | **🌈 RGB Mood Lamp** | [`RGB-Mood-Lamp`](./RGB-Mood-Lamp) | PWM Color Mixing, Mood Presets, 12-Channel Control |
