@@ -36,11 +36,11 @@ The system operates on a threshold-based logic, processing analog data from the 
 ## 🚀 Installation & Use
 1. **Library Requirement:** Install the `Adafruit_LiquidCrystal` library via the Arduino Library Manager.
 2. **Setup:** Connect the components according to the pinout table above.
-3. **Upload:** Flash the provided `main.ino` code to your Arduino Uno.
+3. **Upload:** Flash the provided [main.ino](/main.ino) code to your Arduino Uno.
 4. **Testing:** Apply pressure to the FSR sensor and monitor the transitions on the LCD and LEDs.
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/oW1fANnaAOs/0.jpg)](https://youtu.be/oW1fANnaAOs)
 
 ## 🔗 Interactive Simulation
-[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](YOUR_TINKERCAD_LINK)
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/9cdj9ZwgsZG-force-sensor)
