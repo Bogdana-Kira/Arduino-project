@@ -33,7 +33,7 @@ The "IR Sensor and LED Garland" moves beyond simple switches by implementing wir
 3. **Upload:** Flash the code and use the remote to change the atmosphere!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://youtu.be/CfSHfbznqfM](https://youtu.be/CfSHfbznqfM))
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/dKL5KJ4ScRU-ir-sensor-and-led-garland)
