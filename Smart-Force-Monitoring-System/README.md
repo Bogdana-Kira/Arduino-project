@@ -36,7 +36,7 @@ The system operates on a threshold-based logic, processing analog data from the 
 ## 🚀 Installation & Use
 1. **Library Requirement:** Install the `Adafruit_LiquidCrystal` library via the Arduino Library Manager.
 2. **Setup:** Connect the components according to the pinout table above.
-3. **Upload:** Flash the provided [main.ino](/main.ino) code to your Arduino Uno.
+3. **Upload:** Flash the provided [main.ino](./main.ino) code to your Arduino Uno.
 4. **Testing:** Apply pressure to the FSR sensor and monitor the transitions on the LCD and LEDs.
 
 ## 📺 Video Demonstration
