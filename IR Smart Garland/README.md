@@ -28,7 +28,7 @@ The "IR Sensor and LED Garland" moves beyond simple switches by implementing wir
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-1. **Get the Code:** Open the [mainl.ino](./main.ino) file.
+1. **Get the Code:** Open the [main.ino](./main.ino) file.
 2. **Setup:** Connect the IR sensor to pin 11 and LEDs to pins 10-3.
 3. **Upload:** Flash the code and use the remote to change the atmosphere!
 
@@ -36,4 +36,4 @@ The "IR Sensor and LED Garland" moves beyond simple switches by implementing wir
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
 ## 🔗 Interactive Simulation
-[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](YOUR_TINKERCAD_LINK)
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/dKL5KJ4ScRU-ir-sensor-and-led-garland)
