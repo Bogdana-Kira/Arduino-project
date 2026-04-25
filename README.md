@@ -8,14 +8,9 @@ I design and build smart hardware solutions, focusing on sensor logic, automated
 ## 🛠 Tech Stack & Tools
 - **Programming:** C++, Arduino Language
 - **Hardware Simulation:** Tinkercad, Wokwi
+- **Libraries:** Adafruit LED Backpack, Adafruit LiquidCrystal, IRremote
 - **Version Control:** GitHub
 - **Engineering Focus:** Embedded Systems, IoT, Robotics, Sensor Fusion, Analog/Digital Data Processing
-
----
-
-## 📺 Video Demonstrations
-I document my builds and simulations on my YouTube channel:
-🎥 **[My Engineering Channel](https://www.youtube.com/@kira_b-j2v)**
 
 ---
 
@@ -24,6 +19,8 @@ A collection of my technical works, organized by complexity and functionality.
 
 | Project Name | Folder | Key Features |
 | :--- | :--- | :--- |
+| **🔐 Safe Cracker** | [`Safe-Cracker`](./Safe-Cracker) | 7-Segment & LCD Duo, I2C Bus, Game Logic |
+| **⚖️ Smart Force Monitor** | [`Smart-Force-Monitoring-System`](./Smart-Force-Monitoring-System) | FSR Sensor, I2C LCD, Acoustic & Visual Alerts |
 | **📡 IR Smart Garland** | [`IR-Smart-Garland`](./IR-Smart-Garland) | Infrared Control, 8-LED Sequence, Wireless Logic |
 | **🎲 Dice Simulator** | [`Dice-Simulator`](./Dice-Simulator) | Randomization Logic, Pushbutton Input, LED Mapping |
 | **🌙 Smart Light System** | [`Arduino-Smart-Light-System`](./Arduino-Smart-Light-System) | LDR Sensor, LCD Monitoring, Auto Night-Mode |
@@ -38,6 +35,12 @@ A collection of my technical works, organized by complexity and functionality.
 | **⛽ Gas Detector** | [`L9-Gas-Detector-Alert`](./L9-Gas-Detector-Alert) | MQ Sensor, Acoustic & Visual Alerts |
 | **🌱 Plant Monitor** | [`Smart-Plant-Monitor`](./Smart-Plant-Monitor) | Analog Soil Sensing, LED Status Scale |
 | **🅿️ Parktronic** | [`L7-Intex-Parktronic`](./L7-Intex-Parktronic) | Ultrasonic Ranging, RGB Distance Feedback |
+
+---
+
+## 📺 Video Demonstrations
+I document my builds and simulations on my YouTube channel:
+🎥 **[My Engineering Channel](https://www.youtube.com/@kira_b-j2v)**
 
 ---
 
