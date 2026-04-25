@@ -37,7 +37,7 @@ An interactive puzzle and security simulation project that challenges users to g
 4. **Play:** Start the simulation, use the buttons to enter the code, and crack the safe!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/ePP4XCE4UqA/0.jpg)](https://youtu.be/ePP4XCE4UqA)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2zH0ewVNAA3-safe-cracker)
