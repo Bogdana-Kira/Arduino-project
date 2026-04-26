@@ -37,7 +37,7 @@ The "Arduino Clicker" transforms a simple button and two 7-segment displays into
 4. **Play:** Start the simulation, tap the button as fast as you can, and reach level 99!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/hH72r-YI5gA/0.jpg)](https://youtu.be/hH72r-YI5gA)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/89EJxGrfH0F-clicker-game)
