@@ -27,7 +27,7 @@ The "Simon Says" project is a sophisticated exercise in logic state management. 
 - **Others:** 220Ω Resistors, Breadboard, and Jumper wires.
 
 ## 📐 Circuit Diagram
-![Simon Says Schematic](https://i.postimg.cc/mD8zMzhP/SIMON-SAYS-GAME.png)
+![Simon Says Schematic](SIMON-SAYS-GAME.png)
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
