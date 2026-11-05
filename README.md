@@ -43,7 +43,7 @@ A collection of my technical works, organized by complexity and functionality.
 
 ## 📺 Video Demonstrations
 I document my builds and simulations on my YouTube channel:
-🎥 **[My Engineering Channel](https://www.youtube.com/@kira_b-j2v)**
+🎥 **[My Engineering Channel](https://www.youtube.com/@b_kira-j2v)**
 
 ---
 
