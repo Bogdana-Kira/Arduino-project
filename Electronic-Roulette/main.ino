@@ -51,7 +51,7 @@ void spinRoulette() {
     pixels.show();
 
     tone(BUZZER, random(500, 2000), 30);
-    delay(80 + i * i / 8);
+    delay(80 + i * i / 15);
 
     if (i < steps - 1)
       pos = (pos + 1) % NUMPIXELS;
