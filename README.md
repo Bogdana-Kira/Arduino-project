@@ -35,6 +35,9 @@ A collection of my technical works, organized by complexity and functionality.
 | **⛽ Gas Detector** | [`L9-Gas-Detector-Alert`](./L9-Gas-Detector-Alert) | MQ Sensor, Acoustic & Visual Alerts |
 | **🌱 Plant Monitor** | [`Smart-Plant-Monitor`](./Smart-Plant-Monitor) | Analog Soil Sensing, LED Status Scale |
 | **🅿️ Parktronic** | [`L7-Intex-Parktronic`](./L7-Intex-Parktronic) | Ultrasonic Ranging, RGB Distance Feedback |
+| **🏢 Elevator** | [`Elevator`](./Elevator) | 4x4 Keypad, 74HC595 Shift Register, 7-Segment Display, DC Motor Control |
+| **🎰 Electronic Roulette** | [`Electronic-Roulette`](./Electronic-Roulette) | 24 NeoPixels, 16x2 LCD, Random Spin, Buzzer & Winning Number Display |
+| **🎰 Digital Slot Machine** | [`Digital-Slot-Machine`](./Digital-Slot-Machine) | HT16K33 4-Reel Display, LCD, Sequential Spinning, Prize & Scoring Logic |
 
 ---
 
