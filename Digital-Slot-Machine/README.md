@@ -63,8 +63,7 @@ The system evaluates the final combination, awards points according to the winni
 
 ## 📺 Video Demonstration
 
-[![Arduino Digital Slot Machine Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Arduino Digital Slot Machine Demo](https://img.youtube.com/vi/fbO2oJmbEio/0.jpg)](https://youtu.be/fbO2oJmbEio)
 
 ## 🔗 Interactive Simulation
-
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-Interactive%20Simulation-orange?logo=autodesk)](https://www.tinkercad.com/things/jQVECq6HLXf-digital-slot-machine)
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/jQVECq6HLXf-digital-slot-machine)
