@@ -42,7 +42,7 @@ The "Arduino Elevator" transforms an Arduino into a simplified elevator control 
 5. **Observe:** Watch the selected number appear on the display and observe the motor movement in the corresponding direction.
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/OX3Z5MLkJtI)
+[![Watch the video](https://img.youtube.com/vi/OX3Z5MLkJtI/0.jpg)](https://youtu.be/OX3Z5MLkJtI)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/jQ3BTi3eVt4-elevator)
