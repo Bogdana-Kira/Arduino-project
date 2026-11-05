@@ -45,4 +45,4 @@ The "Arduino Elevator" transforms an Arduino into a simplified elevator control 
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
 
 ## 🔗 Interactive Simulation
-[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](TINKERCAD_SIMULATION_LINK)
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/jQ3BTi3eVt4-elevator)
