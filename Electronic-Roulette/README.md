@@ -43,7 +43,7 @@ The "Electronic Roulette" transforms an Arduino into an interactive roulette gam
 4. **Play:** Start the simulation, press the button, watch the roulette spin, and check the winning number displayed on the LCD!
 
 ## 📺 Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/unST-WzRsok/0.jpg)](https://youtu.be/unST-WzRsok)
 
 ## 🔗 Interactive Simulation
 [![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gVGVtRZ3C01-electronic-roulette-1-24)
