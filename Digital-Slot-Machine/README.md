@@ -52,7 +52,7 @@ The system evaluates the final combination, awards points according to the winni
 *Designed and simulated in Tinkercad.*
 
 ## 🚀 Installation & Use
-
+**Get the Code:** Open the [main.ino](./main.ino) file and copy the source code.
 1. **Open the Simulation:** Open the project in Tinkercad Circuits using the interactive simulation link below.
 2. **Start the Simulation:** Run the circuit simulation.
 3. **Start the Game:** Press the START button to activate the reels.
