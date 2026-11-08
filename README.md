@@ -51,3 +51,4 @@ I document my builds and simulations on my YouTube channel:
 - **GitHub:** Browse my repositories for full source code 📂
 - **Location:** Ukraine 🇺🇦
 - **Focus:** Expanding knowledge in Microcontrollers, Robotics, and Circuit Design.
+- **kirabogdana19@gmail.com**
