@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Embedded Systems & Electronics Enthusiast
 I design and build smart hardware solutions, focusing on sensor logic, automated systems, and interactive electronics.
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@b_kira-j2v) 
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -43,7 +43,7 @@ A collection of my technical works, organized by complexity and functionality.
 
 ## 📺 Video Demonstrations
 I document my builds and simulations on my YouTube channel:🎥
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@b_kira-j2v) **[My Engineering Channel](https://www.youtube.com/@b_kira-j2v)**
+**[My Engineering Channel](https://www.youtube.com/@b_kira-j2v)**
 
 ---
 
