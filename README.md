@@ -3,8 +3,6 @@
 ### 👩‍💻 Embedded Systems & Electronics Enthusiast
 I design and build smart hardware solutions, focusing on sensor logic, automated systems, and interactive electronics.
 ---
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@b_kira-j2v) 
----
 
 ## 🛠 Tech Stack & Tools
 - **Programming:** C++, Arduino Language
@@ -14,7 +12,8 @@ I design and build smart hardware solutions, focusing on sensor logic, automated
 - **Engineering Focus:** Embedded Systems, IoT, Robotics, Sensor Fusion, Analog/Digital Data Processing
 
 ---
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@b_kira-j2v) 
+---
 ## 🚀 Arduino Engineering Projects
 A collection of my technical works, organized by complexity and functionality.
 
