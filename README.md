@@ -42,8 +42,8 @@ A collection of my technical works, organized by complexity and functionality.
 ---
 
 ## 📺 Video Demonstrations
-I document my builds and simulations on my YouTube channel:
-🎥 **[My Engineering Channel](https://www.youtube.com/@b_kira-j2v)**
+I document my builds and simulations on my YouTube channel:🎥
+ [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@b_kira-j2v) **[My Engineering Channel](https://www.youtube.com/@b_kira-j2v)**
 
 ---
 
