@@ -59,7 +59,7 @@ Different electronic components are connected to the experimental circuit to exp
 
 The complete circuit is designed and simulated using Autodesk Tinkercad Circuits.
 
-![Potato Battery Circuit](Potato-Battery)
+![Potato Battery Circuit](Potato-Battery.png)
 
 ## 🚀 Installation & Use
 
