@@ -75,5 +75,4 @@ The complete circuit is designed and simulated using Autodesk Tinkercad Circuits
 [Watch the Project on YouTube](YOUTUBE_LINK)
 
 ## 🔗 Interactive Simulation
-
-[Open the Tinkercad Circuit](https://www.tinkercad.com/things/aghXLO3l0o0-potato-battery)
+[![Tinkercad Simulation](https://img.shields.io/badge/Tinkercad-Simulation-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/aghXLO3l0o0-potato-battery)
